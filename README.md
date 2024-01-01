@@ -4,11 +4,8 @@
 This is the final project of our [**Advanced Programming**](https://github.com/Advanced-Programming-1401) course in Shahid Beheshti University. It's a clone of the famous music-streaming application **Spotify** designed using **Java** programming language.<br>
 From [here](), you can acces the project documentation as well.
 
-
-
-
-
-
+## Images
+![spotify](https://github.com/Farid-Karimi/Lyrik/assets/118434072/5976e739-3077-42fb-8ce2-43e7f80b1181)
 
 ## Objectives
 Here is a list of concepts which where used through out the project:
@@ -45,18 +42,6 @@ It's worth noting that all the data passed between each client and the server is
 ## Creating GUI
 The main tool for designing graphical user interface for this project is [JavaFX](https://en.wikipedia.org/wiki/JavaFX).
 
-## Database Structures
-
-
-
-
-
-
-
-
-
-
-
 ## Presentation 
 [This](https://docs.google.com/presentation/d/15Pqmx_Ug9YLieOzJ7dPYiVqc6WX6ZsMPkJ6riUVkjj8/edit?usp=sharing) is the link to the slides used for project presentation.
 
@@ -67,7 +52,7 @@ From branch `netbeans`, clone the the 2 derectories `SpotifyServer` and `Spotify
 - Course instructor: [Dr.Saeed Reza Kheradpisheh](https://www.linkedin.com/in/saeed-reza-kheradpisheh-7a0b18155/)
 - Project mentor: [Mobin Nesari](https://www.linkedin.com/in/mobin-nesari/)
 - Project judge: [Arsham Gholamzadeh](https://www.linkedin.com/in/arsham-khoee/)
-- Design:[Shayan Shahrabi Farahani](https://www.linkedin.com/in/shayanshahrabi/), [Rana Rokni](https://www.linkedin.com/in/rana-r-a5542420a/), [Farid Karimi](https://www.linkedin.com/in/farid-karimi-30456a257/)
+- Design:, [Farid Karimi](https://www.linkedin.com/in/farid-karimi-30456a257/), [Shayan Shahrabi Farahani](https://www.linkedin.com/in/shayanshahrabi/), [Rana Rokni](https://www.linkedin.com/in/rana-r-a5542420a/)
 
 
 ## date/time
